@@ -1,1 +1,2 @@
-
+as a parent
+I want to receive real-time updates on any delays or disruptions in the school bus schedule, ensuring that I am informed about any changes in the planned route or timing
