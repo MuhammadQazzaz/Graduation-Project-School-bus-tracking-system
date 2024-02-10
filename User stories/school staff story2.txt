@@ -1,1 +1,3 @@
-
+As a school staff member
+i want summarized information for each bus 
+so that i can manage the route of the bus
