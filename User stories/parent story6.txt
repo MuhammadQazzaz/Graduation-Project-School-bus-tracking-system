@@ -1,1 +1,2 @@
-
+as a parent
+I want a user-friendly interface that allows me to easily navigate and visualize the bus route, providing a seamless experience for monitoring my child's daily commute
