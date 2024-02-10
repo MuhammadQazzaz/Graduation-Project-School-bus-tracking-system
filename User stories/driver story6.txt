@@ -1,1 +1,3 @@
-
+As a driver 
+I want to send automated notifications to parents for each pickup and drop-off of the bus 
+So that parents stay informed about their child's safe arrival at school or home
