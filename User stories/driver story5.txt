@@ -1,1 +1,3 @@
-
+As a driver 
+I want to receive route updates provided by the parent through the application 
+So that I can stay informed about any updates regarding the assigned route.
