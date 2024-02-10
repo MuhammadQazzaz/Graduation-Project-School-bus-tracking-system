@@ -1,1 +1,3 @@
-
+As a school staff member 
+i want information about each student 
+so that i can organize the attendance and tracking operation
