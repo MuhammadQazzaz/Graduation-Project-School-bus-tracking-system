@@ -1,0 +1,2 @@
+as a parent 
+i want the ability to set specific notifications for bus arrivals and departures, enabling me to plan my child's schedule and be prepared for their arrival home
