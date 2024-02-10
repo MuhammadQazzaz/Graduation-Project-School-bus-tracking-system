@@ -1,1 +1,3 @@
-
+As a school staff member 
+I want to receive alerts for unexpected deviations or any updates 
+so that I can handle and edit it
