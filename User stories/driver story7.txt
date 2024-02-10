@@ -1,1 +1,3 @@
-
+As a driver
+I want to log out securely from the application after completing my tasks 
+So that I can ensure the security of the application and prevent unauthorized access to sensitive information when not in use
